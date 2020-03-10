@@ -5,6 +5,5 @@ string.split.each do |word|
   end
 array.join(' ') 
 end 
-end
 
   
