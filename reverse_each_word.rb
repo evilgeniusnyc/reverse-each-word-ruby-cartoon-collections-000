@@ -11,3 +11,8 @@ end
 
 
 
+def reverse_each_word(string)
+string.split(' ').select do |word|
+  puts string
+end
+end
