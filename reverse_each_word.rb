@@ -1,6 +1,7 @@
 def reverse_each_word(string)
  
-string.split('').each_to_i
-    puts 
-}
+string.split('').each do
+end
+  
+end
 
